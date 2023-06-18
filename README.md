@@ -5,8 +5,12 @@ https://www.youtube.com/@CodeWithStein<br>
 enjoy<3.
 
 
-# Screen Shot
+# ScreenShot
+ScreenShot Home
 ![alt text](https://github.com/AmirhosseinAbutalebi/Django-nuxt-djob/blob/master/Pic1.png)</br>
+ScreenShot Browse
 ![alt text](https://github.com/AmirhosseinAbutalebi/Django-nuxt-djob/blob/master/Pic2.png)</br>
+ScreenShot Login
 ![alt text](https://github.com/AmirhosseinAbutalebi/Django-nuxt-djob/blob/master/Pic3.png)</br>
+ScreenShot Sing up
 ![alt text](https://github.com/AmirhosseinAbutalebi/Django-nuxt-djob/blob/master/Pic4.png)
