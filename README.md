@@ -6,7 +6,7 @@ enjoy<3.
 
 
 # ScreenShot
-<center>ScreenShot Home<</center>/br>
+ScreenShot Home</br>
 ![alt text](https://github.com/AmirhosseinAbutalebi/Django-nuxt-djob/blob/master/Pic1.png)</br>
 ScreenShot Browse</br>
 ![alt text](https://github.com/AmirhosseinAbutalebi/Django-nuxt-djob/blob/master/Pic2.png)</br>
