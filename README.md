@@ -6,11 +6,11 @@ enjoy<3.
 
 
 # ScreenShot
-ScreenShot Home
+ScreenShot Home</br>
 ![alt text](https://github.com/AmirhosseinAbutalebi/Django-nuxt-djob/blob/master/Pic1.png)</br>
-ScreenShot Browse
+ScreenShot Browse</br>
 ![alt text](https://github.com/AmirhosseinAbutalebi/Django-nuxt-djob/blob/master/Pic2.png)</br>
-ScreenShot Login
+ScreenShot Login</br>
 ![alt text](https://github.com/AmirhosseinAbutalebi/Django-nuxt-djob/blob/master/Pic3.png)</br>
-ScreenShot Sing up
+ScreenShot Sing up</br>
 ![alt text](https://github.com/AmirhosseinAbutalebi/Django-nuxt-djob/blob/master/Pic4.png)
